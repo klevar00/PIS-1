@@ -7,5 +7,9 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        static void metoda1(string[] args)
+        {
+            Console.WriteLine("Nova metoda");
+        }
     }
 }
